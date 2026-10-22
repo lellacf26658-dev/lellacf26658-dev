@@ -1,4 +1,4 @@
-## Hi, I'm Daniella 
+## Hi, I'm Daniella!
 
 **Computer Science with Cybersecurity student at the University of Brighton**, focused on **digital forensics, defensive security and incident investigation**, with a side interest in computational neuroscience.
 
